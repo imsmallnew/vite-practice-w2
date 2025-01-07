@@ -7,7 +7,7 @@ function App() {
     {
       author: "Daniel",
       content: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat laboriosam error soluta, officiis tempore suscipit magni deserunt.",
-      imgUrl: "https://images.unsplash.com/photo-1717501218511-768944e2c325?q=80&w=11024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      imgUrl: "https://images.unsplash.com/photo-1717501218511-768944e2c325?q=80&w=1024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       boxText: "Hello World!",
     },
     {
