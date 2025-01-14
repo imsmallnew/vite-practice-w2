@@ -29,7 +29,7 @@ function App() {
             <div className="container-fluid">
             <form className="container-fluid justify-content-center">
               <div className="nav justify-content-center">
-                <h5>React Team Work - Group6 - W2</h5>
+                <h5>React Team Work - Group6 - W2,W4</h5>
               </div>
             </form>
           </div>
