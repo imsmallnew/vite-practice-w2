@@ -86,7 +86,7 @@ function App() {
             <div className="container-fluid">
             <form className="container-fluid justify-content-center">
               <div className="nav justify-content-center">
-                <h5 className='text-primary'>React Team Work - Group6 - W2,W3</h5>
+                <h5 className='text-success'>React Team Work - Group6 - W2,W3</h5>
               </div>
             </form>
           </div>
